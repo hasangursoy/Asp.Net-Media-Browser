@@ -1,4 +1,4 @@
-# Asp.Net-Media-Browser
+# Asp.Net Media Browser
 A simple app that list mp4, mkv, avi or wmv images inside a dir with their corresponding images.
 
 a.mp4 should have a.mp4.jpg
